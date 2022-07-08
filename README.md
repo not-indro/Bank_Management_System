@@ -10,4 +10,4 @@ C++
 
 ### OUTPUT
 
-https://github.com/in-dro/Bank_Management_System/blob/main/BMS.gif
+![BMS](https://user-images.githubusercontent.com/83275443/177946513-5870fa69-ef28-41ed-9656-59cad412a8b1.gif)
