@@ -8,6 +8,6 @@ Bank Management System is based on the concept of recording customers’ account
 ## Language Used
 C++ 
 
-### OUTPUT SCREENSHOT
+### OUTPUT
 
-<a href="https://github.com/in-dro/Bank_Management_System/blob/main/BMS.gif" /></a>
+<a href="https://github.com/in-dro/Bank_Management_System/blob/main/BMS.gif" /> </a>
