@@ -10,4 +10,4 @@ C++
 
 ### OUTPUT
 
-<a href="https://github.com/in-dro/Bank_Management_System/blob/main/BMS.gif" /> </a>
+https://github.com/in-dro/Bank_Management_System/blob/main/BMS.gif
